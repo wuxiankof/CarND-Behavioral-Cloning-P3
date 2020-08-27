@@ -31,7 +31,7 @@ My project includes the following files:
 * model.py containing the script to create and train the model
 * drive.py for driving the car in autonomous mode
 * model.h5 containing a trained convolution neural network
-* writeup_WX.md or writeup_WX.pdf summarizing the results
+* writeup.pdf summarizing the results
 * Video.mp4 demonstrating a successful run of one lap using the model trained
 
 #### 2. Submission includes functional code
