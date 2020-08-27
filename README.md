@@ -131,6 +131,7 @@ Using the Udacity provided simulator and the drive.py file, a video file `Video.
   <source src="Video.mp4">
 </video>
 
+
 ### Discussion
 
 For this project, I have chosen to use the provided sample driving data as the base to train my model. This is mainly due to the reason that when I run the simulator in the workspace, the animation was too lagging to collect a full set of training data.
