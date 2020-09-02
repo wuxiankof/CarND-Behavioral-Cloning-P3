@@ -127,10 +127,7 @@ I used this training data for training the model. The validation set helped dete
 
 Using the Udacity provided simulator and the drive.py file, a video file `Video.mp4` in the project folder is created to demonstrate a successful run of one lap for the first track using the model trained aforementioned.
 
-<video width="320" height="160" controls>
-  <source src="Video.mp4">
-</video>
-
+Another video demonstration can be found in this [YouTube link](https://youtu.be/FT3L_LZQo34).
 
 ### Discussion
 
